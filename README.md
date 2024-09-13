@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mitchell-mccracken
-- 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning Python, C#, HTML, CSS, and JavaScript.
+- 👀 I’m a curious engineer always looking for a new challenge.
+- 🌱 I’m currently working on many project.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me mitchell.mccracken1@gmail.com
 
