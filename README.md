@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mitchell-mccracken
 - 👀 I’m a curious engineer always looking for a new challenge.
-- 🌱 I’m currently working on many project.
+- 🌱 I’m currently working on many projects.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me mitchell.mccracken1@gmail.com
 
